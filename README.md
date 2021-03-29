@@ -1,2 +1,2 @@
-# mediclaim_insurance_calc
+# Mediclaim Insurance Calc
 Calc Premium for agents and Customers 
